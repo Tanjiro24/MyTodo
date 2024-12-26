@@ -3,7 +3,7 @@
 A simple and efficient Todo App built using React and the Vite framework. This app helps users manage their tasks with ease by allowing them to add, update, and delete tasks.
 
 ## Screenshot of MyTodo App
-![image alt]((https://github.com/user-attachments/assets/5334d6cd-c09b-440c-9c0d-a07bba7f6a17))
+![image alt](https://github.com/user-attachments/assets/5334d6cd-c09b-440c-9c0d-a07bba7f6a17)
 
 ## Features
 
